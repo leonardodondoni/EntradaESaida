@@ -42,7 +42,7 @@ public class EntradaESaida
         //System.out.println("Informe o valor de n: ");
         //valor = teclado.nextDouble();
         //resultado1 = Math.pow(valor,2);
-        //resultado2 = Math.pow(valor,3);
+        //resultado2aa = Math.pow(valor,3);
         //resultado3 = Math.pow(valor,4);
         //System.out.println("Resultado de n²: " + resultado1 + "Resultado de n³: " + resultado2 + "Resultado de n².n²= " + resultado3);
         
