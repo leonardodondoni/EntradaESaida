@@ -57,9 +57,9 @@ public class EntradaESaida
         int soma,diferença,media,distancia,maior,menor;
 
         System.out.println("Informe números inteiros, o código exibirá para você a soma, a diferença, a média, a diferença entre eles(valor absoluto), o maior dos dois, e o menos dos dois");
-        System.out.println("Informe o primeiro_valor: ");
+        System.out.println("Informe o primeiro valor:");
         primeiro_valor = teclado.nextInt();
-        System.out.println("Informe o segundo_valor");
+        System.out.println("Informe o segundo valor:");
         segundo_valor = teclado.nextInt();
         soma = primeiro_valor+segundo_valor;
         diferença = primeiro_valor-segundo_valor;
@@ -68,7 +68,7 @@ public class EntradaESaida
         maior = Math.max(primeiro_valor,segundo_valor);
         menor = Math.min(primeiro_valor,segundo_valor); 
 
-        System.out.println("Soma: " +soma +  "Diferença: " +diferença + "Média: " +media + "Distância entre os números: " +distancia + "Maior número: " +maior + "Menor número: " +menor);
+        System.out.println("Soma:" +soma +  "Diferença:" +diferença + "Média:" +media + "Distância entre os números:" +distancia + "Maior número:" +maior + "Menor número:" +menor);
 
 
 
